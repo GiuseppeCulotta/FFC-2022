@@ -1,3 +1,5 @@
-#Indice ricette
+#Ricette
 
--spahetti al sugooo
+#Elenco delle ricette
+
+1) Spahetti al sugooo
